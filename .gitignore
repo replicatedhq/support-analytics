@@ -1,0 +1,13 @@
+.gopath
+*.orig
+.DS_Store
+bundles
+debian/usr
+.idea
+.vscode
+*.iml
+*.swp
+.vim-bookmarks
+
+/bin
+/yaml
